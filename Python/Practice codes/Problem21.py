@@ -1,0 +1,10 @@
+a = int(input("Enter your 1 Number;- "))
+b = int(input("Enter your 2 Number;- "))
+c = int(input("Enter your 3 Number;- "))
+d = int(input("Enter your 4 Number;- "))
+e = int(input("Enter your 5 Number;- "))
+f = int(input("Enter your 6 Number;- "))
+g = int(input("Enter your 7 Number;- "))
+h = int(input("Enter your 8 Number;- "))
+s = {a,b,c,d,e,f,g,h}
+print(s)
